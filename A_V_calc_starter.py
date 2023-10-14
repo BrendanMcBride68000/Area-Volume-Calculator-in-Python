@@ -1,13 +1,4 @@
 '''
-TPRG 2131 Fall 202* Assignment 1
-Sept, 202*
-Brendan McBride
-
-Use this template as the start
-
-A_V_calc_starter.py
-
-*********
 A/V calculator
 
 (Level 0)
