@@ -115,9 +115,9 @@ class Calculator:
             elif choice == 2:
                 equation = f"Volume = {a} * {a} * {a}"
             elif choice == 3:
-                equation = f"Area = π * {a}^2"
+                equation = f"Area = π * {a} * {a}"
             elif choice == 4:
-                equation = f"Volume = (4/3) * π * {a}^3"
+                equation = f"Volume = (4/3) * π * {a} * {a} * {a}"
             elif choice == 5:
                 equation = f"Area = 0.5 * {a} * {b}"
             print(f"Calculation: {equation} = {result}")
