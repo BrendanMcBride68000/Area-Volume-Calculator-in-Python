@@ -1,8 +1,4 @@
 '''
-TPRG 2131 Fall 2023 Assignment 1
-Sept, 2023
-Brendan McBride
-
 test_A_V_calc.py
 
 This file is to be the test_A_V_calc.py file to be used with your A_V_calc.py and pytest.
